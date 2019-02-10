@@ -5,6 +5,7 @@
   <groupId>com.test</groupId>
   <artifactId>HelloWorldMaven</artifactId>
   <version>0.0.9-SNAPSHOT</version>
+  <packaging>war</packaging>
   <packaging>jar</packaging>
 
   <name>HelloWorldMaven</name>
