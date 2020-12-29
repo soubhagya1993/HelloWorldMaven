@@ -11,7 +11,7 @@ pipeline {
         stage('Test'){
             steps {
                 withMaven(maven : 'Apache Maven 3.5.2'){
-                        bat "mvn test
+                        bat "mvn test"
                 }
 
             }
